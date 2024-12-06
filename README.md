@@ -24,9 +24,9 @@ Avec plus de 20 ans d'expérience dans les projets IT, de développement et dép
 - Connaissances légales et réglementaires 
 
 * 🌍  J'habite en France
-* 🖥️  [Pour me connaitre](http://https://www.nivesse.com)
-* ✉️  Vous pouvez me contacter [benoit@nivesse.com](mailto:benoit@nivesse.com)
-* 🚀  Je travaille actuellement sur le projet [sos-linux.com](http://sos-linux.com)
+* 🖥️  [Pour me connaitre](https://www.nivesse.com) [Et ma société BNCSYS](https://www.bncsys.eu)
+* ✉️  Vous pouvez me contacter [benoit@nivesse.com](mailto:benoit@bncsys.eu)
+* 🚀  Je travaille actuellement sur le projet [sos-linux.com](https://sos-linux.com)
 * 🧠  Je suis passionné de Dev perso et entreprenariat
 * 🤝  Je suis disponible pour collaborer avec des startups ou sur de nouveaux projets
 
