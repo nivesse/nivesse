@@ -1,4 +1,4 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appelle Benoit Nivesse
+Bonjour ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appelle Benoit Nivesse
 ======================================================================================================================================
 
 Expert en solutions open source & Linux
@@ -21,7 +21,9 @@ Avec plus de 20 ans d'expérience dans les projets IT, de développement et dép
 ### Et des compétences transversales 
 - Gestion de projet (capacité d'analyse, planification, méthodologies agiles, ...)
 - Communication et pédagogie, méthodes d'organisation, vulgarisation
-- Connaissances légales et réglementaires 
+- Connaissances légales et réglementaires
+
+## A propos de moi
 
 * 🌍  J'habite en France
 * 🖥️  [Pour me connaitre](https://www.nivesse.com) [Et ma société BNCSYS](https://www.bncsys.eu)
